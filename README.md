@@ -37,8 +37,3 @@ Inclua detalhes aqui se houver arquivos relacionados a testes ou simulações.
 
 ## Licença
 Este projeto é licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para usar, modificar e distribuir este código, desde que sejam mantidos os devidos créditos.
-
----
-
-Se tiver dúvidas ou sugestões, fique à vontade para abrir uma [issue](https://github.com/) ou entrar em contato. Obrigado por explorar este repositório!
-
