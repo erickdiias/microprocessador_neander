@@ -29,7 +29,7 @@ Inclua detalhes aqui se houver arquivos relacionados a testes ou simulações.
 
 1. Clone o repositório:
    ```bash
-   git clone <github.com/erickdiias/microprocessador_neander/tree/main>
+   git clone <https://github.com/erickdiias/microprocessador_neander.git>
    ```
 2. Importe os arquivos VHDL no ambiente de simulação de sua preferência.
 3. Compile e simule os módulos para verificar o funcionamento.
